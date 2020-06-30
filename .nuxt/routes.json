@@ -1,0 +1,20 @@
+[
+  {
+    "name": "articles-id",
+    "path": "/articles/:id?",
+    "component": "C:\\\\Users\\\\User\\\\Desktop\\\\prog\\\\Vue\\\\nuxtSSR\\\\nuxtblog\\\\front\\\\pages\\\\articles\\\\_id.vue",
+    "chunkName": "pages/articles/_id"
+  },
+  {
+    "name": "categories-id",
+    "path": "/categories/:id?",
+    "component": "C:\\\\Users\\\\User\\\\Desktop\\\\prog\\\\Vue\\\\nuxtSSR\\\\nuxtblog\\\\front\\\\pages\\\\categories\\\\_id.vue",
+    "chunkName": "pages/categories/_id"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\User\\\\Desktop\\\\prog\\\\Vue\\\\nuxtSSR\\\\nuxtblog\\\\front\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  }
+]
